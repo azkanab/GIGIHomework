@@ -22,7 +22,7 @@
 ```
 npm install
 ```
-* Open this folder and you will see that the track shown is retrieved from [this link](https://gist.githubusercontent.com/aryapradipta9/e6492383477803b233916e01f36d5465/raw/=66942c739d66d3774303f84071696aa865a07077/single-sample.json)
+* Open this folder and you will see that the track shown is retrieved from [this link](https://gist.githubusercontent.com/aryapradipta9/e6492383477803b233916e01f36d5465/raw/66942c739d66d3774303f84071696aa865a07077/single-sample.json)
 ```
 ├── 2
 │   └── homework
